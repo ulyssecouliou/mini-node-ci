@@ -1,0 +1,25 @@
+{
+  "name": "mini-node-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulyssecouliou/mini-node-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ulyssecouliou/mini-node-ci/issues"
+  },
+  "homepage": "https://github.com/ulyssecouliou/mini-node-ci#readme",
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "jest": "^29.7.0"
+  }
+}
