@@ -5,7 +5,7 @@ on:
  pull_request:
    branches: [ "main", "develop" ]
 jobs:
- build-test-analyze:
+  build-test-analyze:
    runs-on: ubuntu-latest
    steps:
    - name: Checkout code
